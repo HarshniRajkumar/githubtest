@@ -16,6 +16,7 @@
 		34DFA95428D8758900F5FEF9 /* githubtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DFA95328D8758900F5FEF9 /* githubtestTests.swift */; };
 		34DFA95E28D8758900F5FEF9 /* githubtestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DFA95D28D8758900F5FEF9 /* githubtestUITests.swift */; };
 		34DFA96028D8758900F5FEF9 /* githubtestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DFA95F28D8758900F5FEF9 /* githubtestUITestsLaunchTests.swift */; };
+		34DFA96D28D875DE00F5FEF9 /* newFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34DFA96C28D875DE00F5FEF9 /* newFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		34DFA95928D8758900F5FEF9 /* githubtestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubtestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		34DFA95D28D8758900F5FEF9 /* githubtestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubtestUITests.swift; sourceTree = "<group>"; };
 		34DFA95F28D8758900F5FEF9 /* githubtestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubtestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		34DFA96C28D875DE00F5FEF9 /* newFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				34DFA94528D8758800F5FEF9 /* Assets.xcassets */,
 				34DFA94728D8758800F5FEF9 /* LaunchScreen.storyboard */,
 				34DFA94A28D8758800F5FEF9 /* Info.plist */,
+				34DFA96C28D875DE00F5FEF9 /* newFile.swift */,
 			);
 			path = githubtest;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				34DFA94128D8758700F5FEF9 /* ViewController.swift in Sources */,
 				34DFA93D28D8758700F5FEF9 /* AppDelegate.swift in Sources */,
+				34DFA96D28D875DE00F5FEF9 /* newFile.swift in Sources */,
 				34DFA93F28D8758700F5FEF9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
